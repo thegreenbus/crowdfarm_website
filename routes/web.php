@@ -45,6 +45,6 @@ require __DIR__.'/auth.php';
 
 
 
-Route::post('/makePayment', [Donations::class, "donate"]);
+Route::post('/makePayment', [Donations::class, "donate"])->name('/pay-status');;
 
 Route::post('/upload', [campaignController::class, "uploadCoverImage"]);
