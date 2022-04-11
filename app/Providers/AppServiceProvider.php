@@ -13,7 +13,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {Schema::defaultStringLength(191);
-        
+
         //
     }
 
@@ -24,6 +24,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        //The code above checks whether you are in development mode or production in order to render your assets.
+        if($this->app->environment('production')) {
+            \URL::forceScheme('https');
+        }
     }
 }
