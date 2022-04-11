@@ -26,9 +26,11 @@ class Donations extends Controller
                 "name"
             );
 
+            return view('/pay-status');
+
             $myPayment->makePayment($amount);
 
-            return view('/pay-status');
+
 
 
 //            dd($myPayment);
