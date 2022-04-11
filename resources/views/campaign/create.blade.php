@@ -1,6 +1,7 @@
 @extends('layouts.main')
 
 @section('content')
+    @include('layouts.header')
     <!-- Section 1 -->
     <section class="w-full bg-white">
         <div class="mx-auto max-w-7xl">

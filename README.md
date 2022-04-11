@@ -1,6 +1,9 @@
 ## Install CrowdFarm
 Before installing CrowdFarm you will need to make sure you have the minimum server requirements and then you'll want to clone the repo to your machine.
 
+``
+base64:Unt9XP90fzEdX6TwqifA9ehH9eBc0aNe5XuIZqvDESg=
+``
 ### Clone the Repo
 You can clone the repo onto your local machine with the following command:
 

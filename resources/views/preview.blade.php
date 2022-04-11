@@ -11,7 +11,7 @@
                 <p class="mb-8 leading-relaxed">{{ $campaign->description }}</p>
                 <div class="bg-white border-r-4 border-blue-400 w-full p-4">
                     <div>
-                        <p class="text-gray-600 text-sm"><b>2500 XAF raised of </b>{{ $campaign->amount}} XAF</p>
+                        <p class="text-gray-600 text-sm"><b>2500 KES raised of </b>{{ $campaign->amount}} KES</p>
                     </div>
                 </div>
                 <div class="shadow" role="alert">

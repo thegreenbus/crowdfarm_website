@@ -4,8 +4,10 @@
 
     <!-- Section 1 -->
     <section class="w-full bg-white">
+        @include('layouts.header')
         <div class="mx-auto max-w-7xl">
             <div class="flex flex-col lg:flex-row">
+
                 <div
                     class="relative w-full bg-cover lg:w-6/12 xl:w-7/12 bg-gradient-to-r from-white via-white to-gray-100">
                     <div

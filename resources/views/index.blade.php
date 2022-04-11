@@ -6,6 +6,7 @@
             <!-- Main Hero Content -->
             {{-- included my header here --}}
             @include('layouts.header')
+
             <div class="container max-w-lg px-4 py-32 mx-auto text-left md:max-w-none md:text-center">
                 <h1 class="text-5xl font-extrabold leading-10 tracking-tight text-left text-gray-900 md:text-center sm:leading-none md:text-6xl lg:text-7xl">
                     <span class="inline md:block">Farmer Fundraising </span> <span
@@ -100,7 +101,7 @@ border-indigo-600 items-center justify-between col-span-4 px-8 py-12 space-y-4 o
                                 <div class="bg-blue-500 text-xs leading-none py-1 text-center text-white"
                                      style="width: 70%"></div>
                             </div>
-                            <b>2500XAF raised of</b>{{ $campaign->amount}} XAF
+                            <b>2500KES raised of</b>{{ $campaign->amount}} KES
 
                         </div>
                     @endforeach
