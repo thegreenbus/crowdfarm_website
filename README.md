@@ -1,11 +1,7 @@
 ## CrowdFarm
 Before installing CrowdFarm you will need to make sure you have the minimum server requirements and then you'll want to clone the repo to your machine.
 ## Demo (https://crowdfarm.herokuapp.com/)
-``
-base64:Unt9XP90fzEdX6TwqifA9ehH9eBc0aNe5XuIZqvDESg=
-postgres://lioybfrwdcqjue:772989e87182c5045bf9e3d7915da18be0d244226f80b8c09ca34f7070d79568@ec2-23-20-224-166.compute-1.amazonaws
-.com:5432/delgurpigh2skb
-``
+
 ### Clone the Repo
 You can clone the repo onto your local machine with the following command:
 
@@ -29,7 +25,7 @@ Then, open up the .env file and update your DB_DATABASE, DB_USERNAME, and DB_PAS
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=campaigndb
+DB_DATABASE=
 DB_USERNAME=root
 DB_PASSWORD=
 ```
