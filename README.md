@@ -1,6 +1,6 @@
 ## CrowdFarm
 Before installing CrowdFarm you will need to make sure you have the minimum server requirements and then you'll want to clone the repo to your machine.
-
+## Demo (https://crowdfarm.herokuapp.com/)
 ``
 base64:Unt9XP90fzEdX6TwqifA9ehH9eBc0aNe5XuIZqvDESg=
 postgres://lioybfrwdcqjue:772989e87182c5045bf9e3d7915da18be0d244226f80b8c09ca34f7070d79568@ec2-23-20-224-166.compute-1.amazonaws
