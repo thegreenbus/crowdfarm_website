@@ -80,9 +80,9 @@ All ledgers                |  My investments              | Support campaign
 
 
 ### Built with
-1. [PHP](https://www.flutter.dev) <code><img height="26" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+1. [PHP](https://www.flutter.dev) <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 
-2. [Laravel](https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png)
+2. [Laravel](https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png)<code><img height="30" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 
 ## Authors
 1. **Angelita Mashirima** - [MashKapombe](https://github.com/MashKapombe)
