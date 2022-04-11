@@ -60,7 +60,7 @@
             © {{ now()->year }} CrowdFarm Inc. All rights reserved.
         </p>
         {{--<p class="mt-8 text-base leading-6 text-center text-gray-400">
-        Build With ❤️ by Thalhatou Yahya
+        Build With ❤️ by TCrowdFarm
       </p>--}}
     </div>
 </section>

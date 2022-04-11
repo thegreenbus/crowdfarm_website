@@ -1,4 +1,4 @@
-## Install CrowdFarm
+## CrowdFarm
 Before installing CrowdFarm you will need to make sure you have the minimum server requirements and then you'll want to clone the repo to your machine.
 
 ``
@@ -11,7 +11,7 @@ postgres://lioybfrwdcqjue:772989e87182c5045bf9e3d7915da18be0d244226f80b8c09ca34f
 You can clone the repo onto your local machine with the following command:
 
 ```
-git clone https://github.com/thalhatou/CrowdFarm.git
+git clone 
 
  ```
 
@@ -54,4 +54,3 @@ For security measures you may want to regenerate your application key, be sure t
 ```
 php artisan key:generate
 ```
-Build With  ❤️ in by Thalhatou Yahya
